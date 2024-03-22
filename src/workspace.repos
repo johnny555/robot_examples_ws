@@ -3,15 +3,26 @@ repositories:
     type: git
     url: git@github.com:johnny555/krytn.git
     version: humble
-  maci:
+  maci/maci:
     type: git
     url: git@github.com:johnny555/maci.git
     version: humble
-  maci_moveit:
+  maci/maci_moveit:
     type: git
     url: git@github.com:johnny555/maci_moveit.git
     version: humble
-  robotiq_arg85_description:
+  maci/robotiq_arg85_description:
     type: git
     url: git@github.com:johnny555/robotiq_arg85_description.git
     version: humble
+  haul_truck:
+    type: git
+    url: git@github.com:johnny555/haul_truck.git
+    version: humble
+  scorpion_robot:
+    type: git
+    url: git@github.com:johnny555/scorpion.git
+    version: humble
+  veg_bot_robot:
+    type: git
+    url: git@github.com:johnny555/veg_bot.git
