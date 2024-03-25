@@ -2,4 +2,4 @@
 bash .vscode/scripts/build.sh
 
 source install/setup.bash
-ros2 launch krytn navigation.launch.py
+ros2 launch krytn start_robot.launch.py

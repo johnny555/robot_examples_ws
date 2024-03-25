@@ -57,39 +57,39 @@
             "problemMatcher": []
         },
         {
-            "label": "Day 2",
+            "label": "Gazebo",
             "detail": "Test that Gazebo works!",
             "type": "shell",
             "command": "bash .vscode/scripts/gazebo_test.sh",
             "problemMatcher": []
         },
         {
-            "label": "Krytn Teleoperate",
-            "detail": "Teleoperate krytn",
+            "label": "Krytn ",
+            "detail": "Krytn robot",
             "type": "shell",
-            "command": "bash .vscode/scripts/krytn_teleop.sh",
+            "command": "bash .vscode/scripts/krytn.sh",
             "problemMatcher": []
         },
         {
-            "label": "Krytn Mapping",
-            "detail": "Setup mapping for Krytn",
+            "label": "Scorpion ",
+            "detail": "Scorpion robot",
             "type": "shell",
-            "command": "bash .vscode/scripts/krytn_mapping.sh",
+            "command": "bash .vscode/scripts/scorpion.sh",
             "problemMatcher": []
         },
         {
-            "label": "Krytn Navigation",
-            "detail": "Setup Krytn Autonomous Navigation",
+            "label": "Haul Truck ",
+            "detail": "SafeAI inspired Haul Truck robot",
             "type": "shell",
-            "command": "bash .vscode/scripts/krytn_navigation.sh",
+            "command": "bash .vscode/scripts/haul_truck.sh",
             "problemMatcher": []
         },
         {
-            "label": "Maci Gazebo",
-            "detail": "Run MACI Robot Arm simulation",
+            "label": "Veg Bot ",
+            "detail": "Lyro inspired veg bot",
             "type": "shell",
-            "command": "bash .vscode/scripts/maci_gazebo.sh",
+            "command": "bash .vscode/scripts/veg_bot.sh",
             "problemMatcher": []
-        }
+        },
     ]
 }
