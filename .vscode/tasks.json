@@ -91,5 +91,12 @@
             "command": "bash .vscode/scripts/veg_bot.sh",
             "problemMatcher": []
         },
+        {
+            "label": "MACI ",
+            "detail": "Coffee Robot Arm ",
+            "type": "shell",
+            "command": "bash .vscode/scripts/maci.sh",
+            "problemMatcher": []
+        },
     ]
 }

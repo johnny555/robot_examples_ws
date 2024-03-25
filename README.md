@@ -47,6 +47,11 @@ Ctrl+Shift+P, Run Task, Scorpio.
 You will need the topic in rqt_robot_steering window to be set to `/cmd_vel`
 
 
+# Maci
+
+Launch the MACI arm simulation by running: 
+
+Ctrl+Shift+P, Run Task, MACI
 
 
 
