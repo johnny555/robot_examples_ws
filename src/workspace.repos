@@ -26,3 +26,6 @@ repositories:
   veg_bot_robot:
     type: git
     url: git@github.com:johnny555/veg_bot.git
+  sprayerbot:
+    type: git
+    url: git@github.com:johnny555/sprayerbot.git
